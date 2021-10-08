@@ -1,0 +1,1 @@
+# patterns_logical_problems_solution
